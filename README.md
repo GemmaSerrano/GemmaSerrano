@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Gemma 👋
 
-<!--
-**GemmaSerrano/GemmaSerrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Multiplatform Application Developer | DAM
 
-Here are some ideas to get you started:
+I'm a junior developer with a background in Multiplatform Application
+Development (DAM), interested in application development and mobile
+technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+- Java
+- Android
+- Firebase
+- VB.NET
+- JavaFX
+- SQL
+- Microsoft Access
+
+## 🚀 Personal Project
+
+### CobraPlus
+
+Android application developed with Java and Firebase.
+
+## 🎓 Academic Projects
+
+These projects were developed during my studies in Multiplatform
+Application Development (DAM).
+
+### PizzeriaJavaFx
+
+My first programming project, developed with JavaFX as part of my
+programming studies.
+
+### HangmanVB
+
+Hangman game developed with VB.NET and Microsoft Access.
+
+### MasterMindVB
+
+Mastermind-style game developed with VB.NET and Windows Forms.
+
+### MinesweeperVB
+
+Minesweeper-style game developed with VB.NET and Windows Forms.
+
+### WordleVB
+
+Wordle-style game developed with VB.NET.
+
+## 📱 Currently learning
+
+- Mobile application development
+- Android development
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/gemmaserranoruiz/)
