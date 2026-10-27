@@ -1,58 +1,47 @@
+Markdown
 # Hi, I'm Gemma 👋
 
 ### Multiplatform Application Developer | DAM
 
-I'm a junior developer with a background in Multiplatform Application
-Development (DAM), interested in application development and mobile
-technologies.
+Junior software developer specialized in **Android development (Java)** and **Microsoft Power Platform**. I enjoy building functional applications, optimizing workflows, and continuously expanding my technical skills.
 
-## 🛠️ Technologies
+---
 
-- Java
-- Android
-- Firebase
-- VB.NET
-- JavaFX
-- SQL
-- Microsoft Access
+## 🛠️ Tech Stack & Skills
 
-## 🚀 Personal Project
+* **Mobile & Software Development:** Java, Android SDK, Retrofit, Gson, SharedPreferences, JavaFX, VB.NET
+* **Cloud & Automation:** Microsoft Power Platform (Power Apps, Power Automate), Dataverse, Firebase (Auth, Firestore)
+* **Databases & Tools:** SQL, Git & GitHub, Android Studio, Microsoft Access
 
-### CobraPlus
+---
 
-Android application developed with Java and Firebase.
+## 🚀 Featured & Recent Projects
 
-## 🎓 Academic Projects
+### 📱 [Mis Tareas (MiAppNivel4)](https://github.com/GemmaSerrano/MisTareas)
+Android task management app integrating **Retrofit** with the DummyJSON REST API, local persistence with **SharedPreferences**, custom `RecyclerView` adapters, and clean XML layouts. Includes complete technical documentation in PDF.
 
-These projects were developed during my studies in Multiplatform
-Application Development (DAM).
+### 🛡️ CobraPlus
+Android application designed for tracking extraordinary salary concepts, built with **Java** and **Firebase** (Authentication & Cloud Firestore).
 
-### PizzeriaJavaFx
+---
 
-My first programming project, developed with JavaFX as part of my
-programming studies.
+## 💻 Other Projects & Practical Exercises
 
-### HangmanVB
+A collection of functional projects and desktop applications built to strengthen core programming concepts, algorithms, and UI logic:
 
-Hangman game developed with VB.NET and Microsoft Access.
+* **PizzeriaJavaFx:** Desktop management app built with JavaFX.
+* **HangmanVB:** Classic Hangman game developed with VB.NET and Microsoft Access database integration.
+* **MasterMindVB / MinesweeperVB / WordleVB:** Interactive Windows Forms applications developed in VB.NET.
 
-### MasterMindVB
+---
 
-Mastermind-style game developed with VB.NET and Windows Forms.
+## 🎓 Education & Background
 
-### MinesweeperVB
+* **Higher Technical Degree in Multiplatform Application Development (DAM)** | CIPFP Mislata
+* **Specialization & Continuous Learning:** Hands-on training in Business Analytics, Data, and Process Automation.
 
-Minesweeper-style game developed with VB.NET and Windows Forms.
+---
 
-### WordleVB
-
-Wordle-style game developed with VB.NET.
-
-## 📱 Currently learning
-
-- Mobile application development
-- Android development
-
-## 📫 Contact
+## 📫 Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/gemmaserranoruiz/)
