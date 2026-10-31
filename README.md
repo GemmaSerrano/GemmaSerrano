@@ -16,10 +16,8 @@ Junior software developer specialized in **Android development (Java)** and **Mi
 ---
 
 ## 🚀 Featured & Recent Projects
-
-### 📱 [Mis Tareas (MiAppNivel4)](https://github.com/GemmaSerrano/MisTareas)
-Android task management app integrating **Retrofit** with the DummyJSON REST API, local persistence with **SharedPreferences**, custom RecyclerView adapters, and clean XML layouts. Includes complete technical documentation in PDF.
-
+### 📱 [MisTareasMVC](https://github.com/GemmaSerrano/MisTareasMVC)
+Android task management application refactored to implement the **Model-View-Controller (MVC)** architectural pattern. Features async API communication via `TaskCallback`, local persistence (`SharedPreferences`), UI/UX detail screen redesign, state preservation on screen rotation (`savedInstanceState`), and complete technical documentation in PDF.
 ### 🛡️ [CobraPlus](https://github.com/GemmaSerrano/CobraPlus)
 Android application designed for tracking extraordinary salary concepts, built with **Java** and **Firebase** (Authentication & Cloud Firestore).
 
@@ -29,6 +27,7 @@ Android application designed for tracking extraordinary salary concepts, built w
 
 A collection of functional projects and desktop applications built to strengthen core programming concepts, algorithms, and UI logic:
 
+* **[Mis Tareas (MiAppNivel4)](https://github.com/GemmaSerrano/MisTareas):** Initial Android task management app integrating **Retrofit** with the DummyJSON REST API, local persistence with **SharedPreferences**, custom RecyclerView adapters, and clean XML layouts.
 * **[PizzeriaJavaFx](https://github.com/GemmaSerrano/PizzeriaJavaFx):** Desktop management app built with JavaFX.
 * **[HangmanVB](https://github.com/GemmaSerrano/HangmanVB):** Classic Hangman game developed with VB.NET and Microsoft Access database integration.
 * **[MasterMindVB](https://github.com/GemmaSerrano/MasterMindVB) / [MinesweeperVB](https://github.com/GemmaSerrano/MinesweeperVB) / [WordleVB](https://github.com/GemmaSerrano/WordleVB):** Interactive Windows Forms applications developed in VB.NET.
